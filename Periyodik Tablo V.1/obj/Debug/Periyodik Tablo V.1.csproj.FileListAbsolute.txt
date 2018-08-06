@@ -1,0 +1,13 @@
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\bin\Debug\Periyodik Tablo V.1.exe.config
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\bin\Debug\Periyodik Tablo V.1.exe
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\bin\Debug\Periyodik Tablo V.1.pdb
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik Tablo V.1.csprojAssemblyReference.cache
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik_Tablo_V._1.Bilimadamları.resources
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik_Tablo_V._1.feedback.resources
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik_Tablo_V._1.Form1.resources
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik_Tablo_V._1.periyodik_tablo.resources
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik_Tablo_V._1.Properties.Resources.resources
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik Tablo V.1.csproj.GenerateResource.cache
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik Tablo V.1.csproj.CoreCompileInputs.cache
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik Tablo V.1.exe
+C:\Users\Nazım\Desktop\periyodik tablo programı\Periyodik Tablo V.1\Periyodik Tablo V.1\obj\Debug\Periyodik Tablo V.1.pdb
